@@ -2,7 +2,7 @@
 
 # KAUÃ PRAIZI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub;Cybersecurity+Journey+in+Progress;Building+Projects+%7C+Learning+%7C+Securing;Technology+%2B+Development+%2B+Industry" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=800&lines=Kau%C3%A3+Praizi;Welcome+to+my+GitHub;Cybersecurity+Journey+in+Progress;Tecnologia+%2B+Desenvolvimento+%2B+Ind%C3%BAstria;Aprendendo+%7C+Construindo+%7C+Testando+%7C+Evoluindo" alt="Animação de apresentação" />
 
 <br>
 
