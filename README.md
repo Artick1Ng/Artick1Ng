@@ -1,8 +1,14 @@
 <div align="center">
 
-# KAUÃ PRAIZI
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=800&lines=Kau%C3%A3+Praizi;Welcome+to+my+GitHub;Cybersecurity+Journey+in+Progress;Tecnologia+%2B+Desenvolvimento+%2B+Ind%C3%BAstria;Aprendendo+%7C+Construindo+%7C+Testando+%7C+Evoluindo" alt="Animação de apresentação" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Kau%C3%A3+Praizi" alt="Kauã Praizi" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub;Cybersecurity+Journey+in+Progress;Tecnologia+%2B+Desenvolvimento+%2B+Ind%C3%BAstria;Aprendendo+%7C+Construindo+%7C+Testando+%7C+Evoluindo" alt="Apresentação animada" />
+
+</div>
 
 <br>
 
