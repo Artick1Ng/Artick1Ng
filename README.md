@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4500&pause=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Kau%C3%A3+Praizi&repeat=true&cursor=true&cursorColor=FFFFFF" alt="Kauã Praizi" />
+<img src="./assets/nome.svg" alt="Kauã Praizi" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub;Cybersecurity+Journey+in+Progress;Tecnologia+%2B+Desenvolvimento+%2B+Ind%C3%BAstria;Aprendendo+%7C+Construindo+%7C+Testando+%7C+Evoluindo&cursor=true&cursorColor=00FF88" alt="Apresentação animada" />
+<img src="./assets/apresentacao.svg" alt="Welcome to my GitHub" />
 
 </div>
 
