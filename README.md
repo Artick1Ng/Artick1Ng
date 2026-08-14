@@ -1,89 +1,210 @@
-<br clear="both">
+<div align="center">
 
-<h1 align="center">Olá, tudo bem?👋</h1>
+# 👨‍💻 KAUÃ PRAIZI
 
-###
+### 🔐 Cybersecurity | 💻 Developer | ⚙️ Automation | 🏭 Industrial Technology
 
-<p align="left">Me chamo kauã, estou iniciando minha carreira na área da TI...<br>🚀 Desenvolvedor em formação<br>💻 C# | ASP.NET Core | MVC & SQL<br>📚 Aprendendo na prática através de projetos reais<br>🎯 Focado em crescimento constante na área de tecnologia</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Cybersecurity+in+progress+%F0%9F%94%90;Building+projects+and+learning+every+day+%F0%9F%9A%80;Technology+%2B+Industry+%2B+Security" alt="Typing SVG" />
 
-###
+<br>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```bash
+$ whoami
+
+Kauã Praizi
+
+> 🎓 IT Management Graduate
+> 🔐 Specializing in Cybersecurity
+> 💻 Developer in progress
+> 🏭 Experience with industrial technology and maintenance planning
+> ⚙️ Interested in automation, systems and information security
+> 🚀 Building projects to learn by doing
+```
+
+I believe the best way to learn technology is to **build, test, break, fix and improve**.
+
+Currently focused on developing practical skills in **Cybersecurity, Programming, Automation, Networks and IT**.
+
+---
+
+## 🔐 Cybersecurity Journey
+
+```text
+[████████████████░░░░] 80%
+
+Networking          ███████████████░░░
+Linux               █████████████░░░░░
+Python              ███████████████░░░
+Security            ████████████░░░░░░
+Web Security        ██████████░░░░░░░░
+Automation          █████████████░░░░░
+```
+
+> Learning cybersecurity through practical projects, labs and continuous experimentation.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF88"/>
+
+</p>
+
+### Database & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF88"/>
+
+</p>
+
+---
+
+## 🛡️ What I'm Exploring
+
+```text
+Cybersecurity
+├── Networking
+├── Linux
+├── Ethical Hacking
+├── Web Security
+├── Vulnerability Analysis
+├── Security Automation
+└── Defensive Security
+
+Development
+├── Python
+├── JavaScript
+├── C#
+├── ASP.NET Core
+├── SQL
+└── Web Development
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Cybersecurity Projects
+
+> Practical projects focused on security, automation and defensive technologies.
+
+| Project                   | Description                                    |
+| ------------------------- | ---------------------------------------------- |
+| 🛡️ Cybersecurity Toolkit | Security utilities built with Python           |
+| 🔎 Network Scanner        | Network discovery and port scanning laboratory |
+| 🔐 Password Security Lab  | Password analysis and security concepts        |
+| 📊 Security Dashboard     | Visualization of security-related data         |
+
+### 💻 Development Projects
+
+| Project                | Description                             |
+| ---------------------- | --------------------------------------- |
+| 📅 Scheduling System   | Web-based scheduling application        |
+| 🏭 Industrial Tools    | Systems focused on industrial processes |
+| ⚙️ Automation Projects | Python / Power Automate automation      |
+| 📊 Data Projects       | Data analysis and visualization         |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="50" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🔥 Contribution Streak
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%A3-praizi-25607a322/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <a href="https://x.com/Kkkauacria" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/kauapraizi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="kauapraizi7@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"/>
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+## 📈 My Goal
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Test
+  ↓
+Break
+  ↓
+Fix
+  ↓
+Improve
+  ↓
+Repeat
+```
+
+> 🎯 Goal: become a cybersecurity professional capable of combining
+> **development, automation, infrastructure and security** to solve real problems.
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+</a>
+
 </div>
 
-###
-<!--
-**Artick1Ng/Artick1Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `sudo learn --everything`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF88&height=100&section=footer"/>
+
+</div>
