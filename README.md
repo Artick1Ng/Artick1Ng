@@ -6,12 +6,12 @@
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Followers&style=flat-square&color=00ff88&labelColor=111111" alt="GitHub Followers"/>
+<a href="https://github.com/Artick1Ng">
+  <img src="https://img.shields.io/github/followers/Artick1Ng?label=Followers&style=flat-square&color=00ff88&labelColor=111111" alt="GitHub Followers"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20Views&color=00ff88&style=flat-square" alt="Profile Views"/>
+<a href="https://github.com/Artick1Ng">
+  <img src="https://komarev.com/ghpvc/?username=Artick1Ng&label=Profile%20Views&color=00ff88&style=flat-square" alt="Profile Views"/>
 </a>
 
 </div>
@@ -20,12 +20,11 @@
 
 <div align="center">
 
-## ABOUT ME
+## SOBRE MIM
 
 </div>
 
 ```bash
-$ whoami
 
 Kauã Praizi
 
@@ -168,13 +167,13 @@ My objective is to develop strong practical skills in **Cybersecurity**, while u
 
 ## GITHUB ACTIVITY
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Artick1Ng&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=111111&title_color=00FF88&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artick1Ng&layout=compact&theme=dark&hide_border=true&bg_color=111111&title_color=00FF88&text_color=FFFFFF" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=111111&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=Artick1Ng&theme=dark&hide_border=true&background=111111&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=888888" />
 
 </div>
 
@@ -184,7 +183,7 @@ My objective is to develop strong practical skills in **Cybersecurity**, while u
 
 ## CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Artick1Ng/Artick1Ng/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 <br>
 
