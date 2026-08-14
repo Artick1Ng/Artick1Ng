@@ -1,0 +1,42 @@
+<svg width="850" height="110" viewBox="0 0 850 110"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .text {
+      font-family: "Fira Code", "Courier New", monospace;
+      font-size: 25px;
+      font-weight: 500;
+      fill: #00FF88;
+    }
+
+    .cursor {
+      fill: #00FF88;
+      animation: blink 0.7s steps(1) infinite;
+    }
+
+    @keyframes blink {
+      0%, 49% {
+        opacity: 1;
+      }
+
+      50%, 100% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <text x="50%" y="65"
+        text-anchor="middle"
+        class="text">
+    Welcome to my GitHub
+  </text>
+
+  <rect
+    x="590"
+    y="37"
+    width="3"
+    height="30"
+    class="cursor">
+  </rect>
+
+</svg>
