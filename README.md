@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Kau%C3%A3+Praizi" alt="Kauã Praizi" />
 
 <br>
