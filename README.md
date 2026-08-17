@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nome.svg" alt="Kauã Praizi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4500&pause=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Kau%C3%A3+Praizi&repeat=true&cursor=true&cursorColor=FFFFFF" alt="Kauã Praizi" />
 
 <br>
 
